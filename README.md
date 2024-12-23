@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @motor17
-- 👀 I’m interested in maths, astrophysics and chess
+- 👋 Hi, I’m motor
+- 👀 I’m interested in maths, astrophysics, chess and heavy metal music
 - 🌱 I’m currently learning python, c++ and LaTeX
-- 💞️ I’m looking to collaborate on nothing.
-- 📫 How to reach me: haha no
+  
+- 📫 You can reach me if you know ppl who know me
   
 - ⚡ Fun fact: LEICESTER CITY FOR THE WIN DOWN WITH NOTTINGHAM FOREST
 
