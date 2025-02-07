@@ -4,7 +4,7 @@
   
 - 📫 You can reach me if you know ppl who know me
   
-- ⚡ Fun fact: LEICESTER CITY FOR THE WIN DOWN WITH NOTTINGHAM FOREST
+- ⚡ Fun fact: I enjoy being tormented by how badly Leicester City play these days
 
 <!---
 motor17/motor17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
