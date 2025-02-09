@@ -1,5 +1,5 @@
 - 👋 Hi, I’m motor
-- 👀 I’m interested in maths, astrophysics, chess and heavy metal music
+- 👀 I’m interested in maths, astrophysics, chess and heavy metal 
 - 🌱 I’m currently learning python, c++ and LaTeX
   
 - 📫 You can reach me if you know ppl who know me
