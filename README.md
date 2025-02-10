@@ -1,6 +1,6 @@
 - 👋 Hi, I’m motor
-- 👀 I’m interested in maths, astrophysics, chess and heavy metal 
-- 🌱 I’m currently learning python, c++ and LaTeX
+- 👀 I’m interested in maths, astrophysics, chess and water.
+- 🌱 I’m currently learning C++ and observational astronomy
   
 - 📫 You can reach me if you know ppl who know me
   
