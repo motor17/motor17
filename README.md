@@ -1,10 +1,10 @@
 - 👋 Hi, I’m motor
 - 👀 I’m interested in maths, astrophysics, chess and water.
-- 🌱 I’m currently learning C++ and observational astronomy
+- 🌱 I’m currently learning how to drink water in a more efficient manner.
   
-- 📫 You can reach me if you know ppl who know me
+- 📫 You might be able to reach me if you know people who know me.
   
-- ⚡ Fun fact: I enjoy being tormented by how badly Leicester City play these days
+- ⚡ Fun fact: I'm a fan of Leicester City Football Club
 
 <!---
 motor17/motor17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
